@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MyAwesomeApp > should match snapshot 1`] = `
+<div>
+  <h1>
+    Sergio
+  </h1>
+  <h3>
+    Barreras
+  </h3>
+  <p>
+    Elden Ring, Resident Evil
+  </p>
+  <p>
+    4
+  </p>
+  <h2>
+    Activo
+  </h2>
+  <p
+    style="background-color: rgb(211, 211, 211); border-radius: 10px; padding: 10px;"
+  >
+    {"zipCode":"ABC-123","country":"Mexico"}
+  </p>
+</div>
+`;
